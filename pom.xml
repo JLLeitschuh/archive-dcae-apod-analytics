@@ -94,7 +94,7 @@
 
 
         <!--TESTING DEPENDENCIES -->
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <jayway.jsonpath.version>2.0.0</jayway.jsonpath.version>
         <jsonassert.version>1.4.0</jsonassert.version>
         <junit.version>4.12</junit.version>
