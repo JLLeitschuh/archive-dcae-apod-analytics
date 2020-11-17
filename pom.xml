@@ -86,7 +86,7 @@
         <findbugs.jsr305.version>2.0.1</findbugs.jsr305.version>
         <findbugs.annotations.version>3.0.0</findbugs.annotations.version>
         <lombok.version>1.16.10</lombok.version>
-        <jackson.json.version>2.6.2</jackson.json.version>
+        <jackson.json.version>2.11.3</jackson.json.version>
         <json.path.version>2.2.0</json.path.version>
         <quartz.version>2.2.0</quartz.version>
         <httpclient.version>4.5.2</httpclient.version>
